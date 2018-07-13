@@ -7,5 +7,8 @@ class Shoe
   def initialize(brand)
     @brand = brand
   end
+  def cobble 
+    "The shoe has been repaired!"
+  end
 end
 adidas = Shoe.new("Adidas")
