@@ -14,5 +14,5 @@ class Book
 
 end
 
-great_gatsby =  Book.new("The Great Gatsby")
-puts great_gatsby.title
+# great_gatsby =  Book.new("The Great Gatsby")
+# puts great_gatsby.title
